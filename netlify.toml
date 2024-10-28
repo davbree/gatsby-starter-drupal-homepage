@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/about/*"
+  to = "/blog?q=:splat"
+  status = 302
